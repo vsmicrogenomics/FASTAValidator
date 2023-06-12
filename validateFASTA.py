@@ -1,9 +1,7 @@
 """
 validateFASTA.py
 
-This script processes the output files of AMRFinderPlus and generates a binary matrix
-that shows the presence or absence of antibiotic resistance genes, stress response
-genes, and virulence genes in each sample.
+A Python script for validating FASTA files by checking their format and sequence content.
 
 Written by Vikas Sharma, 2023
 """
